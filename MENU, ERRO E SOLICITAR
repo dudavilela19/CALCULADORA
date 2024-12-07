@@ -1,0 +1,59 @@
+MENU DE OPERAÇÕES, ERROS E SOLICITAR NÚMERO
+
+# Menu de operações
+
+p
+print("Selecione a operação desejada:")
+print("1. Somar")
+print("2. Subtrair")
+
+pri
+print("3. Multiplicar")
+
+pri
+print("4. Dividir")
+
+# Solicitar a operação
+operacao = 
+operacao = inp
+
+operacao =
+
+opera
+input("Digite o número da operação (1/2/3/4): ")
+
+# Solicitar os números
+num1 = 
+num1
+float(input("Digite o primeiro número: "))
+num2 = 
+num2 = f
+float(input("Digite o segundo número: "))
+
+# Executar a operação selecionada
+if operacao == '1':
+    
+  
+print(f"{num1} + {num2} = {somar(num1, num2)}")
+
+el
+elif operacao == '2':
+    
+    pr
+print(f"{num1} - {num2} = {subtrair(num1, num2)}")
+
+e
+elif operacao == '3':
+    
+  
+print(f"{num1} * {num2} = {multiplicar(num1, num2)}")
+
+eli
+elif operacao == '4':
+    
+    prin
+
+    
+print(f"{num1} / {num2} = {dividir(num1, num2)}")
+else:
+    print("Operação inválida!")
