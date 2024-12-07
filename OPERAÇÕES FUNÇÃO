@@ -1,0 +1,32 @@
+CÓDIGO A RESPEITO DAS FUNÇÕES
+# Funções para cada operação
+def somar(x, y):
+    
+ 
+return x + y
+
+
+
+de
+def subtrair(x, y):
+    
+  
+return x - y
+
+def multiplicar(x, y):
+    
+    re
+return x * y
+
+def dividir(x, y):
+    
+    i
+if y == 0:
+        
+        ret
+
+     
+return "Erro! Divisão por zero."
+    
+    retur
+return x / y
